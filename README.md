@@ -1,7 +1,7 @@
 # DAI-101-ASSIGNMENT-
 
 ## Overview
-This repository contains the solution for Assignment 12-1PM DAI, which focuses on data cleaning, exploratory data analysis (EDA), and multivariate analysis. The dataset used in this assignment contains multiple numerical and categorical variables, and the tasks involve handling missing values, removing duplicates, treating outliers, and performing various types of data analysis.
+This repository contains the solution for Assignment 01 DAI-101, which focuses on data cleaning, exploratory data analysis (EDA), and multivariate analysis. The dataset used in this assignment contains multiple numerical and categorical variables, and the tasks involve handling missing values, removing duplicates, treating outliers, and performing various types of data analysis.
 
 ## Dataset
 The dataset chosen for this assignment contains a mix of numerical and categorical variables. It includes missing values, duplicate entries, and potential outliers, which were addressed during the data cleaning process.
